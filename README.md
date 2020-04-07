@@ -40,3 +40,5 @@ def some_function(a: int, b: bool) -> float:
 ### 关于 commit 到 GitHub 的 summary
 
 一般起名 'Update xxx' 为更新教程里的 xxx，'Fixed xxx' 为修复 xxx bug，'Remove xxx' 为删除 xxx。
+
+多看别人的代码，这个 repo 的关键就是要代码交流，写其他人易懂的代码。
