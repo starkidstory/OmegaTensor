@@ -26,7 +26,7 @@ def some_function(a: int, b: bool) -> float:
     """
 ```
 
-若是 jupyter，函数的作用说明可以任意设置，大致以清除的笔记形式展出。
+若是 jupyter，函数的作用说明可以任意设置，大致以清楚的笔记形式展出。
 
 若你的实现需要一些前提条件或说明，均可写于当前二级目录下的 README.md 中，格式均以 MarkDown 形式为准。
 
