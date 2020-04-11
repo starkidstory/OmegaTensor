@@ -17,3 +17,5 @@ mat=tf.convert_to_tensor(np.zeros([3,3]))
 print(mat)
 small_list=tf.convert_to_tensor([1,2,3],dtype=tf.float64)
 print(small_list)
+
+print(np.random.randint(0,5))
