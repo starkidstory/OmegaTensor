@@ -1,8 +1,8 @@
 # OmegaTensor
 
-![starkidstory](Image/starkidstory_title.png)
+[![starkidstory](Image/starkidstory_title.png)](https://starkidstory.com)
 
-![omega](Image/omega_title.png)
+[![omega](Image/omega_title.png)](https://starkidstory.com/index.php/category/omega/)
 
 ### Omega Tenser
 
